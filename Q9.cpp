@@ -35,7 +35,7 @@ int main(){
     Bank a1, a2;
     
     a1.setValue("Dhiyanesh", 20000.0);
-    a2.setValue("chuck", 30000.09);
+    a2.setValue("Brad Pitt", 30000.09);
 
 
 }
